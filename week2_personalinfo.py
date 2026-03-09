@@ -1,6 +1,6 @@
-Fullname = 'Rafi Balleza'
-Age = 18
-Height = 1.52
+Fullname = 'asdiqwqhfwf' # For personal reasons I cannot put my actual personal info.
+Age = 69
+Height = 2.85
 Working = False
 
 print("Name: ", Fullname)
